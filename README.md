@@ -33,3 +33,7 @@ To set up and run the keylogger, follow these steps:
 ---
 
 **Note:** This project is for educational and ethical use only. Do not use it for any malicious or unauthorized activity.
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
